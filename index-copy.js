@@ -60,7 +60,7 @@ function getJiraIssueDetails(issueKey, callback) {
     basic_auth: {
       email: "ecakir20@ku.edu.tr",
       api_token:
-        "ATATT3xFfGF0GGmmVcjAw0IEgmBHp5d_5jc6vqMC03zf62bxXtAWqAwf8EJ0x81zZr90tf-U9ain8AqxbgWrbtcGj4XFzHb70Cim5sWt5wNpi9zTF2bSWakq4DSLe-ZP_aoAxwD5U9D1fYA_mMl12fy3DoeHaBmXwz0RWbzp79FYtjf93UGPW5c=66120A4D",
+        API_TOKEN,
     },
   });
 
